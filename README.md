@@ -209,9 +209,7 @@ Similarly, Canada’s occupational safety agency has a great guide, not just for
 ### Psych Safety community
 UK-based Psychological Safety community, ready to field your questions and familiar with psych safety as it relates to military.
 
-[Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/psychological-safety-community/)
-
-[Their Slack community direct link](https://join.slack.com/t/psychsafety/shared_invite/zt-p0xlx85u-vjkgxHkrpQw4r7C0wU3tAA)
+[Join the Psychological Safety Community – Psychological Safety, powered by Iterum Ltd (psychsafety.com)](https://psychsafety.com/psychological-safety-community/)
 
 [What is Psychological Safety? History and Research – Psychological Safety, powered by Iterum Ltd (psychsafety.co.uk)](https://psychsafety.co.uk/about-psychological-safety/)
 
